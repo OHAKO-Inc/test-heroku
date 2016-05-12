@@ -1,0 +1,36 @@
+
+#content {
+  width : 100%;
+  text-align : center;
+  margin-top : 40px;
+}
+
+.title {
+  font-size : 3rem;
+  color : #999999;
+  padding-bottom : 1.8rem;
+}
+
+.boxes {
+  display : flex;
+  width : 360px;
+  margin : 0 auto;
+}
+
+.box1 {
+  background-color : red;
+  width : 120px;
+  height : 120px;
+}
+
+.box2 {
+  background-color : blue;
+  width : 120px;
+  height : 120px;
+}
+
+.box3 {
+  background-color : yellow;
+  width : 120px;
+  height : 120px;
+}
